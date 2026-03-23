@@ -141,7 +141,7 @@ We trained 5 regression models representing different algorithmic approaches:
 
 #### **A. Linear Models**
 
-1. **Ridge Regression** ⭐ BEST PERFORMER
+1. **Ridge Regression** BEST PERFORMER
    - **R² Score: 0.982** (98.2% variance explained)
    - RMSE: 0.014 (1.4% of GDP)
    - MAE: 0.0096
@@ -354,7 +354,7 @@ predicted_gap = ridge_model.predict(new_country_features)
 ## 11. IMPLEMENTATION ROADMAP
 
 ### Phase 1: Model Deployment (Months 1-2)
-- ✅ Build and validate predictive models
+- Build and validate predictive models
 - Package model as API or web application
 - Create user-friendly prediction interface
 - Develop automated reporting system
@@ -407,10 +407,10 @@ This analysis demonstrates that **MSME finance gaps are highly predictable** usi
 
 ### Key Takeaways:
 
-1. ✅ **Model Works:** Ridge Regression provides production-ready predictions
-2. ✅ **Simple is Better:** Linear model outperforms complex ensembles
-3. ✅ **Data Quality Matters:** Focus on accurate demand estimation
-4. ✅ **Actionable Insights:** Clear feature importance guides policy
+1. **Model Works:** Ridge Regression provides production-ready predictions
+2. **Simple is Better:** Linear model outperforms complex ensembles
+3. **Data Quality Matters:** Focus on accurate demand estimation
+4. **Actionable Insights:** Clear feature importance guides policy
 
 ### Next Steps:
 
