@@ -472,9 +472,7 @@ msme-finance-gap/
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** February 2026  
-**Author:** Data Science Team  
-**Contact:** [Your Organization]
+**Last Updated:** February 2026 
 
 ---
 
